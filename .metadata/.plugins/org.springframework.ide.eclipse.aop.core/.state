@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="custumerManagment"/>
+<aop-project name="ADoctorApp2"/>
+<aop-project name="GameMaven"/>
+<aop-project name="cloudserver"/>
+<aop-project name="ADoctorApp"/>
+</aop-reference-model>

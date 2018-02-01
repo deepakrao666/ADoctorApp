@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="org.springframework.boot.SpringApplication"/>
+<fullyQualifiedTypeName name="org.springframework.context.annotation.Configuration"/>
+<fullyQualifiedTypeName name="javax.activation.DataSource"/>
+<fullyQualifiedTypeName name="org.springframework.context.annotation.Bean"/>
+<fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Value"/>
+<fullyQualifiedTypeName name="com.dao.AdminDao"/>
+<fullyQualifiedTypeName name="com.Modal.AdminModal"/>
+<fullyQualifiedTypeName name="com.service.AdminService"/>
+<fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RestController"/>
+<fullyQualifiedTypeName name="com.springMain.modal.AdminModal"/>
+<fullyQualifiedTypeName name="com.springMain.service.AdminService"/>
+<fullyQualifiedTypeName name="com.springMain.dao.AdminDaoImpl"/>
+<fullyQualifiedTypeName name="com.springMain.service.PatientService"/>
+<fullyQualifiedTypeName name="com.springMain.dao.PatientDaoImpl"/>
+<fullyQualifiedTypeName name="javax.persistence.TemporalType"/>
+<fullyQualifiedTypeName name="com.springMain.modal.PatientModal"/>
+<fullyQualifiedTypeName name="com.springMain.dao.DoctorDaoImpl"/>
+<fullyQualifiedTypeName name="com.springMain.service.DoctorService"/>
+<fullyQualifiedTypeName name="java.util.ListIterator"/>
+<fullyQualifiedTypeName name="javax.persistence.Temporal"/>
+<fullyQualifiedTypeName name="java.util.Map"/>
+<fullyQualifiedTypeName name="com.springMain.modal.DoctorModal"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="com.springMain.dao.LeaveDaoImpl"/>
+<fullyQualifiedTypeName name="com.springMain.service.LeaveService"/>
+<fullyQualifiedTypeName name="com.springMain.modal.LeaveModal"/>
+<fullyQualifiedTypeName name="java.time.LocalDateTime"/>
+<fullyQualifiedTypeName name="java.sql.Time"/>
+<fullyQualifiedTypeName name="java.text.DateFormat"/>
+<fullyQualifiedTypeName name="java.text.SimpleDateFormat"/>
+<fullyQualifiedTypeName name="com.springMain.modal.AptmtModal"/>
+<fullyQualifiedTypeName name="com.springMain.service.AptmtService"/>
+<fullyQualifiedTypeName name="java.util.Date"/>
+<fullyQualifiedTypeName name="org.springframework.cloud.netflix.eureka.server.EnableEurekaServer"/>
+<fullyQualifiedTypeName name="org.springframework.cloud.netflix.eureka.EnableEurekaClient"/>
+<fullyQualifiedTypeName name="org.springframework.web.servlet.config.annotation.WebMvcConfigurer"/>
+<fullyQualifiedTypeName name="org.springframework.web.bind.annotation.CrossOrigin"/>
+<fullyQualifiedTypeName name="org.hibernate.annotations.Type"/>
+<fullyQualifiedTypeName name="com.springMain.Test"/>
+<fullyQualifiedTypeName name="java.util.Scanner"/>
+<fullyQualifiedTypeName name="java.math.BigInteger"/>
+<fullyQualifiedTypeName name="java.nio.charset.MalformedInputException"/>
+</qualifiedTypeNameHistroy>
